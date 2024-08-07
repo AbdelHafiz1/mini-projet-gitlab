@@ -3,7 +3,7 @@ Static Website Example
 
 To be used with Cloud Academy labs.
 
-###capture
+capture
 
 >![image](screenshots/img1)
 
